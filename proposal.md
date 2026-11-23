@@ -1,3 +1,8 @@
+**Please be sure to shrink this down to one proposal!**
+
+**Also - What resources do you plan to use to help students?  You mention responding to questions and helping with homework, but what do you plan on using as the source of the information that they an ask questions of?  And what Python libraries do you plan on using to help with this? **
+
+
 THERE ARE TWO DIFFERENT ONES THAT WE INCLUDED ONE AFTER THE OTHER
 
 Student name: Abdurazak Mohamed, Frazer Smith
